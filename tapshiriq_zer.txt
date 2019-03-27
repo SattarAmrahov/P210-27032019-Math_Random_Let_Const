@@ -1,0 +1,3 @@
+2 istifadeci olmalidir.
+Her istifadeci novbe ile zer atir. 
+Yuksek xal toplamish istifadeci qalib gelir. 
